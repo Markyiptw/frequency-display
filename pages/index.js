@@ -71,7 +71,8 @@ export default function Home() {
           update();
         }}
       >
-        start pitch detection (once started can't stop, unless refresh page)
+        start pitch detection (once started can&apos;t stop, unless refresh
+        page)
       </button>
       <div>
         {detected !== null
